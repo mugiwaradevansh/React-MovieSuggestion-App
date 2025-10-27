@@ -113,10 +113,7 @@ npm run dev
 
 **Devansh Patel**  
 💻 Full-Stack JavaScript Developer  
-🌩️ Passionate about clean UI, cloud backends & creative apps.  
-
-📫 **Connect With Me:**
-- GitHub: [@devanshpatel](#)
+🌩️ Passionate about clean UI, cloud backends & creative apps. 
 ---
 
 ## 💬 **Feedback & Contribution**
